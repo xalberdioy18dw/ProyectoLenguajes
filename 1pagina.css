@@ -1,0 +1,79 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#contenedor{
+	width: 1500px;
+	height: 750px;
+	margin:auto;
+	background-color: #ff9999;
+}
+
+header{
+	width: 300px;
+	height: 70px;
+	float: left;
+	border-style: solid;
+
+
+}
+#titulo{
+	color: red;
+	font:bold 40px fantasy;
+	margin-top: 0px;
+	margin-left: 30px;
+
+}
+#marka{
+	border-radius: round;
+	width: 50px;
+	height: 50px;
+	border-radius: 12px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 15px;
+	margin-left: 20px;
+
+
+}
+
+li {
+	list-style: none;
+	border-style: solid;
+	width: 8%;
+	float: left;
+	height: 35px;
+	border-radius: 12px;
+	margin-top: 10px;  
+	margin-left: 90px;
+	text-align: center;
+	background-color: #ff4d4d;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	border-style: solid;
+
+	
+}
+body{
+	background-color: #ffb3b3;
+}
+video{
+	width: 300px;
+	height: 300px;	
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: -45px;
+
+}
+#LigaSantander{
+	margin-left: 380px;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	border-style: solid;
+	margin-top: 20px;
+}
+ul{
+	border-style: solid;
+	height: 70px;
+}
